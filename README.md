@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- :four_leaf_clover: I’m currently working on chat website based on beego and Sniffer based on MFC
-- :zap: I'm currently learning react and golang  
+- :rainbow: I’m currently working on chat website based on beego:bee: and Sniffer based on MFC
+- :zap: I'm currently learning react, MFC and golang, and I'm also a newcomer for Rust and Scala
+- :four_leaf_clover: I'm a slow learner, but I keep trying and never give up  
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Snowfall99)]()
 <!--
 - 🌱 I’m currently learning ...
